@@ -1,11 +1,12 @@
+# Product-Engagement-A-B-Testing-Insights
+
+This project simulates product analytics for a mobile e-commerce app, with a focus on understanding user engagement and premium conversion behavior. Using randomly assigned A/B test groups, we evaluated the impact of personalized product recommendations on key user actions such as item views and purchases.
+
+---
+
 # Dashboard Link
 
 https://public.tableau.com/app/profile/ameya.phansalkar5510/viz/ProductAnalyticsABTesting/Overview
-
-# Product-Engagement-A-B-Testing-Insights
-
-
-This project simulates product analytics for a mobile e-commerce app, with a focus on understanding user engagement and premium conversion behavior. Using randomly assigned A/B test groups, we evaluated the impact of personalized product recommendations on key user actions such as item views and purchases.
 
 ---
 
